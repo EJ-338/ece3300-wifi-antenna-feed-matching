@@ -23,3 +23,10 @@ at both ports, although the second lumped port was configured as
 100 Ω. The 3.53 mm result therefore needs to be checked with a
 100 Ω reference at the second terminal before it can be interpreted
 as a verified 50 Ω-to-100 Ω match.
+
+## Project report
+
+[Read my ECE 3300 project report](Janowiecki_ECE330_project.pdf)
+
+**Report correction:** The guided wavelength should read 0.0771 m
+(77.1 mm), not 0.771 m. The quarter-wave length of 19.275 mm is correct.
