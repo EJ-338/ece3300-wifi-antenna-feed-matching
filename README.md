@@ -30,3 +30,12 @@ as a verified 50 Ω-to-100 Ω match.
 
 **Report correction:** The guided wavelength should read 0.0771 m
 (77.1 mm), not 0.771 m. The quarter-wave length of 19.275 mm is correct.
+
+
+## HFSS project files
+
+- [Calculated design — 1.92973 mm middle strip](Project-Original.aedt)
+- [Adjustment 1 — 1.00 mm middle strip](Project-Adjustment1.aedt)
+- [Adjustment 2 — 3.53 mm middle strip](Project-Adjustment2.aedt)
+
+These files can be opened in Ansys HFSS to inspect the model and port settings.
